@@ -1,4 +1,4 @@
-// 𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓@BrunoSobrino - _antiarab.js
+// 𝗠𝗨𝗦𝗔-𝗕𝗢𝗧@BrunoSobrino - _antiarab.js
 
 
 const handler = (m) => m;
